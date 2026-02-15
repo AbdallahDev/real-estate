@@ -1,5 +1,6 @@
-export const defaultProperty = [
+export const defaultEstate = [
     {
+        image: "default.jpg",
         location: "City, Area",
         price: 0,
         description: "No description available yet.",
